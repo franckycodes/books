@@ -1,0 +1,23 @@
+Bienvenue dans le cours de git de franckycodes.
+
+Vous devez absolument créer un compte github avant tout.
+Ensuite tout ce que vous avez besoin est l'executable de git.
+
+
+Sous Linux:
+Pour la version stable, vous devez ouvrir une terminal et entrez la commande suivante: 
+apt-get install git
+
+Vous pouvez aussi l'installer depuis cette repertoire
+add-apt-repository ppa:git-core/ppa 
+apt update
+apt install git
+
+
+Sous windows:
+Rendez-vous sur cette page
+https://git-scm.com/download/win
+et télécharger la version compatible avec votre OS.
+
+...
+
