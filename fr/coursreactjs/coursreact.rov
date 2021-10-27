@@ -4,4 +4,21 @@ Afin que nous puissions suivre votre développement, on vous encourage à nous f
 
 
 React est une libraire javascript crée par facebook afin de créer des applications monopage.
+Pour créer une application react,
+vous devez installer node version 14 ou plus,
+et npm version 5.6 ou plus,
+
+
+Créons notre première app react:
+
+Creer un nouveau dossier,
+ouvrez la ligne de commande,
+allez dans votre dossier,
+
+tapez la commande npx create-react-app myreactapp,
+Vous devez attendre l'installation,
+ensuite
+cd myreactapp,
+npm start
+
 
