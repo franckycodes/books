@@ -1,8 +1,8 @@
 Bienvenue dans le cours c++ de franckycodes.
 
+Ce livre est en cours d'écriture..
 
-
-
+Bienvenue dans le cours c++ de franckycodes.
 Vous avez besoin de compilateur c++ et d'editeur de code pour pouvoir suivre le cours.
 
 Un bon editeur de code est notepad++.
@@ -10,6 +10,25 @@ Vous pouvez le télécharger sur leur site.
 
 Vous devez ensuite télécharger un compilateur c++, g++ par exemple.
 Télécharger le compilateur mingw.
+
+
+
+Code basique en c++: hello world
+
+#include <iostream>
+using namespace std;
+
+
+int main(int argc, char**argv)
+{
+
+
+
+cout << "Hello World" << endl;
+return 0;
+}
+
+
 
 
 
