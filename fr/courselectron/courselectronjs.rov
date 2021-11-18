@@ -1,0 +1,53 @@
+Bienvenue dans le cours electron de franckycodes.
+Ce livre est en cours d'écriture.
+
+
+
+
+
+
+
+
+
+
+
+
+Creer une app electron
+Ouvrez votre ligne de commande et tapez les commandes suivantes
+>mkdir helloworldapp
+>cd helloworldapp
+>npm init
+>npm install --save-dev electron
+>npm start
+>touch main.js
+Une app electron commence toujours par main.js
+
+
+La distribution ou la generation de votre executable
+Il faut faire 
+npm init
+si vous n'avez pas encore specifier l'auteur de votre appli,
+une erreur se produira sinon,
+
+Ensuite tapez les commandes suivantes,
+npm install --save-dev @electron-forge/cli
+npx electron-forge import
+npm run make 
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
